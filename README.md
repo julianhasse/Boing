@@ -1,2 +1,2 @@
 # Boing
-## Python Game by Julian Hasse
+## Python Game by Julian Hasse ® 2021
